@@ -1,0 +1,64 @@
+===============================================================================
+Card A
+===============================================================================
+Slot      Provisioned Type                         Admin Operational   Comments
+              Equipped Type (if different)         State State         
+-------------------------------------------------------------------------------
+A         sfm3-12                                  up    up/active     
+BOF last modified                 : N/A
+Config file version               : THU AUG 26 23:01:27 2021 UTC
+Config file last modified         : 2022/11/04 10:41:02
+Config file last saved            : 2022/11/06 02:02:04
+M/S clocking ref state            : primary
+
+Flash - cf1:
+    Administrative State          : up
+    Operational state             : not equipped
+
+Flash - cf2:
+    Administrative State          : up
+    Operational state             : up
+    Serial number                 :  STI4MN7440077245242
+    Firmware revision             : 01/17/07
+    Model number                  : STI Flash 8.0.0                         
+    Size                          : 1,950 MB
+    Free space                    : 1,950 MB
+    Percent Used                  : 0 %
+
+Flash - cf3:
+    Administrative State          : up
+    Operational state             : up
+    Serial number                 : STI4MN7440077245242
+    Firmware revision             : 110301a 
+    Model number                  : SFCF8192H1BO2TO-I-Q1-543-ALU            
+    Size                          : 7,800 MB
+    Free space                    : 6,153 MB
+    Percent Used                  : 21 %
+
+Hardware Data
+    Platform type                 : 7750
+    Part number                   : 3HE03617AAAF02
+    CLEI code                     : IPUCAN4FAB
+    Serial number                 : NS4477F4856
+    Manufacture date              : 08152014
+    Manufacturing deviations      : (Not Specified)
+    Manufacturing assembly number : 
+    Administrative state          : up
+    Operational state             : up
+    Temperature                   : 40C
+    Temperature threshold         : 75C
+    Software boot (rom) version   : X-16.0.R9 on Wed Aug 21 12:25:15 PDT 2019
+                                    by builder
+    Software version              : TiMOS-C-16.0.R17 cpm/hops64 Nokia 7750 SR
+                                    Copyright (c) 2000-2020 Nokia.
+                                    All rights reserved. All use subject to
+                                    applicable license agreements.
+                                    Built on Wed Dec 16 12:18:25 PST 2020 by
+                                    builder in /builds/c/160B/R17/panos/main
+    Time of last boot             : 2021/08/27 03:44:42
+    Current alarm state           : alarm cleared
+    Base MAC address              : 00:00:00:00:ff:6b
+    Firmware revision status      : acceptable
+    Memory capacity               : 4,096 MB
+    System timing oscillator type : OCXO
+===============================================================================
