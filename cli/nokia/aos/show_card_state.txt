@@ -1,0 +1,19 @@
+
+===============================================================================
+Card State
+===============================================================================
+Slot/  Provisioned Type                  Admin Operational   Num   Num Comments
+Id         Equipped Type (if different)  State State         Ports MDA 
+-------------------------------------------------------------------------------
+1      iom3-xp                           up    up                  2   
+1/1    m20-1gb-xp-sfp                    up    up            20        
+1/2    m2-10gb-xp-xfp                    up    up            2         
+2      iom3-xp                           up    up                  2   
+2/1    m2-10gb-xp-xfp                    up    up            2         
+2/2    m20-1gb-xp-sfp                    up    up            20        
+10     iom3-xp                           up    up                  2   
+10/1   m20-1gb-xp-sfp                    up    up            20        
+10/2   m2-10gb-xp-xfp                    up    up            2         
+A      sfm3-12                           up    up                      Active
+B      sfm3-12                           up    up                      Standby
+===============================================================================
